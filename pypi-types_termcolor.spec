@@ -4,7 +4,7 @@
 #
 Name     : pypi-types_termcolor
 Version  : 1.1.5
-Release  : 6
+Release  : 7
 URL      : https://files.pythonhosted.org/packages/34/d2/1ac4a935eaec2aa7ccc1fa2d78ae342fc2108d96b8fdd330ed71900466d2/types-termcolor-1.1.5.tar.gz
 Source0  : https://files.pythonhosted.org/packages/34/d2/1ac4a935eaec2aa7ccc1fa2d78ae342fc2108d96b8fdd330ed71900466d2/types-termcolor-1.1.5.tar.gz
 Summary  : Typing stubs for termcolor
