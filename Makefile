@@ -1,5 +1,5 @@
 PKG_NAME := pypi-types_termcolor
-URL = https://files.pythonhosted.org/packages/c3/bb/227607a7e045cf6496fff74361ba576a1a30129eba16760336e3faa9c179/types-termcolor-1.1.6.1.tar.gz
+URL = https://files.pythonhosted.org/packages/2e/c8/77b1d73399d1cb77823ad32a36490b6a9851a7bd84f3a54560adab7ae022/types-termcolor-1.1.6.2.tar.gz
 ARCHIVES = 
 
 include ../common/Makefile.common
